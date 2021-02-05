@@ -1,0 +1,37 @@
+body {
+    background-image: url("homeimg.jpg");
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  h1 {
+    font-size: 35px;
+    color: rgb(126, 36, 36);
+    position: absolute;
+    left: 480px;
+    top: 250px;
+  }
+
+  .l1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 490px;
+    top: 310px;
+    font-size: 30px;
+  }
+
+  .l2 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 380px;
+    top: 360px;
+    font-size: 30px;
+  }
+
+  a {
+    position: absolute;
+    left: 600px;
+    top: 500px;
+    font-size: 30px;
+  }
