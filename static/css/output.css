@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+}
+
+img{
+    border-radius: 8px;
+    position: absolute;
+    clip: rect(60px,600px,500px,0px);
+    width: 400px;
+    left: 480px;
+    top: 40px;
+}
+
+h1{
+    position: absolute;
+    left: 480px;
+    top: 10px;
+}
+
+h2{
+    position: absolute;
+    left: 480px;
+    top:500px;
+}
